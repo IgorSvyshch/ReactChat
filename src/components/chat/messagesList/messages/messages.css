@@ -1,0 +1,26 @@
+li {
+    list-style: none;
+    margin-bottom: 23px;
+    margin-top: 25px;
+    box-sizing: border-box;
+    padding: 15px;
+    color: #fff;
+    font-size: 14px;
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+.manager {
+    background: #8bc34a;
+    border-radius: 15px 15px 15px 0px;
+    margin-right: 40px;
+}
+.user {
+    background: #FF8964;
+    border-radius:  15px 15px 0px 15px;
+    width: 219px;
+    margin-left: auto;
+    margin-right: 10px;
+    color: #fff;
+    padding: 11px 17px 11px 24px;
+}
